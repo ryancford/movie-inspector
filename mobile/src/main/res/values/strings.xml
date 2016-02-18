@@ -1,4 +1,5 @@
 <resources>
+    <string name="tmdb_api_key">0df6987ec74700cd96d95427708ff20a</string>
     <string name="app_name">Movie Inspector</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
